@@ -2,6 +2,10 @@
 
 M2 student at Efrei
 
+Full-Stack developer & Symfony fanboy
+
+<3 Bass Guitar
+
 <p class="center">
     <i class="fa fa-twitter"></i> <a href="https://twitter.com/spyl94">twitter.com/spyl94</a>
     &nbsp;|&nbsp;
