@@ -51,3 +51,7 @@ Then the next Sprint starts...
 
 
 Licence ?
+
+---
+
+UX design -> Graphic Design -> Développement

@@ -38,6 +38,8 @@
 * Work hard to fix the crashes
 * Fix one bug and create two more
 * Time to Market slow because of manual tests
+* Most written documentation is outdated...
+* Programmers are oracles of knowledge and bottlenecks of information.
 
 ---
 

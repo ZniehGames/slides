@@ -131,11 +131,11 @@ Evolving suite of acceptance tests
 * Business requirements baked into development effort
 * Specs are elaborated collaboratively
 * Common languages
-* Executable specifications provide fast feedback
+* Executable specifications (in CVS) provide fast feedback
 
 #Presenter Notes
 Bye bye les cachiers de specs
-// Tests suites aren't only interesting to developers (eg: Project Manager)
+Tests suites aren't only interesting to developers (eg: Project Manager)
 
 ---
 
@@ -167,3 +167,7 @@ Examples can help you discover things early
 #Presenter Notes
 
 Permettre aux développeurs de continuer à innover
+
+---
+
+# Specification by Example provides just enough documentation at the right time, helping to build the right product with short iterations
