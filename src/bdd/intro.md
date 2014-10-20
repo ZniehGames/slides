@@ -110,10 +110,10 @@ Evolving suite of acceptance tests
 
 ## Goals
 
-* Implementing something correctly
-* Implementing the right thing
+* Implementing something correctly : SpecBDD
+* Implementing the right thing : StoryBDD
 * Acceptance tests are secondary to the understanding
-* Customer co-produces them
+* Customer co-produces features
 
 ---
 
