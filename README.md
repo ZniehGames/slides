@@ -11,7 +11,7 @@ Get the code:
 Install [landslide](https://github.com/adamzap/landslide#installation), then
 build the presentations:
 
-    landslide how_znieh_games_build_applications.cfg
+    landslide how_znieh_build_applications.cfg
 
 
 Usage
