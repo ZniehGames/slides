@@ -154,6 +154,8 @@ Code syntax checked by jslint.
 Follow a guide :
 [https://github.com/gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide)
 
+[http://www.airpair.com/angularjs](Learn in 10.000 words)
+
 Templating with jade ?
 
 Maybe consider using React.js for faster loading and Isomorphic JS ?

@@ -36,3 +36,8 @@ Even for tests automation code !
 ### When you need QA :
 
 Label your PR with "QA" and wait for approval.
+
+
+---
+
+# Hardware is fallible, then we add redundancy. Software is fallible, then we add tests. People are fallible, then we add pair programming.

@@ -73,4 +73,8 @@ And ...
 - Efficiently check that a system does what the specifications say.
 - Keep documentation relevant and reliable with minimal maintenance costs.
 
+---
+
+"The formulation of a problem is often more essential than its solution." - Albert Einstein
+
 

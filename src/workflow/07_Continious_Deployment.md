@@ -2,6 +2,12 @@
 
 ---
 
+# Fully automated deployment that can be executed on demand
+
+Includes automated database deployments.
+
+---
+
 ![](../images/continuous-delivery-deployment-sm.jpg)
 
 ---
@@ -16,3 +22,7 @@
 
 Reduced Days from development to release
 
+---
+
+This will save you a lot of time long term. Fre-
+quent deployment is a good practice regardless of Specification by Example.

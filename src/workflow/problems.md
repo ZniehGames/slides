@@ -37,7 +37,7 @@ You'll find it harder and harder to add new features. You will find more and mor
 
 #Presenter Notes
 
-refactoring === design phase
+Refactoring === Design phase
 
 ---
 
